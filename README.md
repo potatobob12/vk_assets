@@ -12,8 +12,8 @@ Collection of scenes, individuals, and textures used by Vibrant Key
 * All online textures must be copyright free.
 
 ## Configurations
-* Chairs - Scale to 0.52 size, and color the material #4E1200
+* Chairs - Scale to 0.52 size, and color the material #4E1200 or #CFA76E
 * Walls - Unless otherwise noted, the walls are white #fff, with a height of 5.00 and a thickness of 0.5.
-* Tables - scale to 0.648 size, and color the material #4e1200
+* Tables - scale to 0.648 size, and color the material #4e1200 or #CFA76E
 * Floors - color #fff
 
