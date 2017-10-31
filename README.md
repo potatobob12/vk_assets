@@ -2,7 +2,7 @@
 Collection of scenes, individuals, and textures used by Vibrant Key
 
 ## Contributing to this repository
-* You must be a member of the vibrant key team to contribute
+* You must be a member of the vibrant key team to contributedab
 * Follow the configuration guide for making assets.
 * Before editing any files, make sure to create a separate branch with 'yourname-yourtask' format.
 * Follow the due dates
