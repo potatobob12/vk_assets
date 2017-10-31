@@ -5,7 +5,7 @@ Collection of scenes, individuals, and textures used by Vibrant Key
 * You must be a member of the vibrant key team to contribute
 * Follow the configuration guide for making assets.
 * Before editing any files, make sure to create a separate branch with 'yourname-yourtask' format.
-* Follow the due dates
+* Follow the due dates dab
 * If you can create an asset with the archimesh plugin, like walls and doors, do so.
 * When exporting individual assets, export as .fbx
 * When exporting scenes, export as .fbx
